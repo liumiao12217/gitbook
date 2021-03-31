@@ -1,0 +1,23 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "这一个关于电影介绍的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumiao12217/gitbook.git"
+  },
+  "keywords": [],
+  "author": "liumiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liumiao12217/gitbook/issues"
+  },
+  "homepage": "https://github.com/liumiao12217/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
